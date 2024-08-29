@@ -6,6 +6,7 @@
 int main()
 {
     Array<string> ar = arrayIni<string>();
+    int a;
 
     return 0;
 }
